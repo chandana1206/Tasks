@@ -1,0 +1,21 @@
+Chatbot on Botpress for Legal Queries
+
+1. Define Intent and Scope
+    List all legal topics: contracts, property disputes, criminal law, etc.
+    Create a flowchart of expected questions and answers.
+
+2. Set Up Botpress
+    Download Botpress and set it up locally or on a server.
+    Create a new bot project and customize UI/UX.
+
+3. Training the Chatbot
+    Build intents: Examples like “What’s the process of registering a property?”
+    Add entities (e.g., laws, dates, parties involved).
+    Use Botpress's Natural Language Understanding (NLU) module for training.
+
+4. Create Decision Logic
+    Use the "Flow Builder" in Botpress to create conversation pathways.
+
+5. Integration
+    Connect it to a database for legal references or external APIs for real-time updates.
+    Test thoroughly for accuracy.
