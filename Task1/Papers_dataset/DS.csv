@@ -1,0 +1,101 @@
+Title,Authors,Year,Journal,Citations,URL
+R for data science,"['H Wickham', 'M Çetinkaya-Rundel', 'G Grolemund']",2023,N/A,1426,https://batrachos.com/sites/default/files/pictures/Books/Wickham_Grolemund_2017_R%20for%20Data%20Science.pdf
+Data science in action,"['W Van Der Aalst', 'W van der Aalst']",2016,N/A,4088,https://nnov.hse.ru/data/2017/03/15/1112283148/program-1732155265-xsPmoe7O2q.pdf
+Data science and its relationship to big data and data-driven decision making,"['F Provost', 'T Fawcett']",2013,N/A,2423,https://www.liebertpub.com/doi/pdf/10.1089/big.2013.1508
+Data science and prediction,['V Dhar'],2013,N/A,1496,https://dl.acm.org/doi/pdf/10.1145/2500499
+The data science handbook,['F Cady'],2024,N/A,176,N/A
+Data scientist,"['TH Davenport', 'DJ Patil']",2012,N/A,2119,http://blogs.sun.ac.za/open-day/files/2022/03/Data-Scientist-Harvard-review.pdf
+"Data science, predictive analytics, and big data: a revolution that will transform supply chain design and management","['MA Waller', 'SE Fawcett']",2013,N/A,1978,https://onlinelibrary.wiley.com/doi/pdf/10.1111/jbl.12010
+"Big data, data science, and analytics: The opportunity and challenge for IS research","['R Agarwal', 'V Dhar']",2014,N/A,1066,https://pubsonline.informs.org/doi/pdf/10.1287/isre.2014.0546?download=true/1000
+Theory-guided data science: A new paradigm for scientific discovery from data,"['A Karpatne', 'G Atluri', 'JH Faghmous']",2017,N/A,1342,https://ieeexplore.ieee.org/ielaam/69/8031002/7959606-aam.pdf
+Computational optimal transport: With applications to data science,"['G Peyré', 'M Cuturi']",2019,N/A,3775,https://www.nowpublishers.com/article/DownloadSummary/MAL-073
+Big data analytics: a survey,"['CW Tsai', 'CF Lai', 'HC Chao', 'AV Vasilakos']",2015,N/A,1186,https://link.springer.com/article/10.1186/s40537-015-0030-3
+High-dimensional probability: An introduction with applications in data science,['R Vershynin'],2018,N/A,4121,https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+"Data quality for data science, predictive analytics, and big data in supply chain management: An introduction to the problem and suggestions for research and …","['BT Hazen', 'CA Boone', 'JD Ezell']",2014,N/A,1173,N/A
+"Computer age statistical inference, student edition: algorithms, evidence, and data science","['B Efron', 'T Hastie']",2021,N/A,1744,https://www.academia.edu/download/62256436/casi20200302-60533-ye0gyx.pdf
+Data Science for Business: What you need to know about data mining and data-analytic thinking,['F Provost'],2013,N/A,1993,N/A
+The quantified self: Fundamental disruption in big data science and biological discovery,['M Swan'],2013,N/A,1385,https://www.liebertpub.com/doi/full/10.1089/big.2012.0002
+Machine Learning Algorithms: Popular algorithms for data science and machine learning,['G Bonaccorso'],2018,N/A,1119,N/A
+Trends in big data analytics,"['K Kambatla', 'G Kollias', 'V Kumar', 'A Grama']",2014,N/A,1231,https://eclass.upatras.gr/modules/document/file.php/MST183/LTheodorakopoulos-Diafaneies-2024/%CE%95%CE%A1%CE%95%CE%A5%CE%9D%CE%97%CE%A4%CE%99%CE%9A%CE%95%CE%A3%20%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%95%CE%A3%20%CE%A0%CE%A1%CE%9F%CE%A3%20%CE%91%CE%9D%CE%91%CE%98%CE%95%CE%A3%CE%97%202024/PAPER%2014%3A%20Trends%20in%20big%20data%20analytics.pdf
+"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2","['E Bolyen', 'JR Rideout', 'MR Dillon', 'NA Bokulich']",2019,N/A,16265,https://www.nature.com/articles/s41587-019-0252-6
+Python data science handbook: Essential tools for working with data,['J VanderPlas'],2016,N/A,1057,https://www.academia.edu/download/62974298/pythondatasciencehandbook20200415-66956-1noqwv2.pdf
+Deep learning applications and challenges in big data analytics,"['MM Najafabadi', 'F Villanustre', 'TM Khoshgoftaar']",2015,N/A,2974,https://link.springer.com/article/10.1186/s40537-014-0007-7
+Big data analytics in healthcare: promise and potential,"['W Raghupathi', 'V Raghupathi']",2014,N/A,3993,https://link.springer.com/article/10.1186/2047-2501-2-3
+Eleven grand challenges in single-cell data science,"['D Lähnemann', 'J Köster', 'E Szczurek', 'DJ McCarthy']",2020,N/A,1104,https://link.springer.com/article/10.1186/S13059-020-1926-6
+An introduction to social network data analytics,['CC Aggarwal'],2011,N/A,1211,https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f5a059e8f50ae137e0146fbf32e199d8c6dcb83a
+"Big data, analytics and the path from insights to value","['S LaValle', 'E Lesser', 'R Shockley']",2010,N/A,2921,https://sloanreview.mit.edu/article/big-data-analytics-and-the-path-from-insights-to-value/
+Big data analytics,['P Russom'],2011,N/A,2276,https://origin-tableau-www.tableau.com/sites/default/files/whitepapers/tdwi_bpreport_q411_big_data_analytics_tableau.pdf
+Toward the development of a big data analytics capability,"['M Gupta', 'JF George']",2016,N/A,1610,N/A
+Big data analytics: Understanding its capabilities and potential benefits for healthcare organizations,"['Y Wang', 'LA Kung', 'TA Byrd']",2018,N/A,1937,https://www.ehidc.org/sites/default/files/resources/files/big%20data%20analytics.pdf
+Toward scalable systems for big data analytics: A technology tutorial,"['H Hu', 'Y Wen', 'TS Chua', 'X Li']",2014,N/A,1608,https://ieeexplore.ieee.org/iel7/6287639/6514899/06842585.pdf
+"For big-data scientists,'janitor work'is key hurdle to insights",['S Lohr'],2014,N/A,221,https://assets.quizgecko.com/FnjzPgpOS5E0xYjyIQ5azglYJ4rK88Wg6wpoxjJn.pdf
+Understanding big data: Analytics for enterprise class hadoop and streaming data,"['P Zikopoulos', 'C Eaton']",2011,N/A,3101,N/A
+"Response to COVID-19 in Taiwan: big data analytics, new technology, and proactive testing","['CJ Wang', 'CY Ng', 'RH Brook']",2020,N/A,1889,https://jamanetwork.com/journals/jama/fullarticle/2762689%20
+"Review of smart meter data analytics: Applications, methodologies, and challenges","['Y Wang', 'Q Chen', 'T Hong']",2018,N/A,1293,https://arxiv.org/pdf/1802.04117
+Feature engineering for machine learning: principles and techniques for data scientists,"['A Zheng', 'A Casari']",2018,N/A,1322,N/A
+Big data analytics in logistics and supply chain management: Certain investigations for research and applications,"['G Wang', 'A Gunasekaran', 'EWT Ngai']",2016,N/A,1840,https://kar.kent.ac.uk/57194/5/BDBA_Revised_Paper%20%2528November%2014%252C%202015%2529_TP_CLEAN.pdf
+Big data analytics and firm performance: Effects of dynamic capabilities,"['SF Wamba', 'A Gunasekaran', 'S Akter', 'SJ Ren']",2017,N/A,2402,https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/5544/JBR1-FINAL%20VERSION-MAY%2023-SA.pdf?sequence=1&isAllowed=y
+An overview of Internet of Things (IoT) and data analytics in agriculture: Benefits and challenges,"['O Elijah', 'TA Rahman', 'I Orikumhi']",2018,N/A,1608,https://fardapaper.ir/mohavaha/uploads/2019/05/Fardapaper-An-Overview-of-Internet-of-Things-IoT-and-Data-Analytics-in-Agriculture-Benefits-and-Challenges.pdf
+"AI in marketing, sales and service: How marketers without a data science degree can use AI, big data and bots",['P Gentsch'],2018,N/A,189,https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/8852/Contents.pdf?sequence=3&isAllowed=y
+"Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies","['JD Kelleher', 'B Mac Namee', ""A D'arcy""]",2020,N/A,1428,https://www.academia.edu/download/88520297/FMLPDA_SampleChapter_CaseStudy_GalaxyClassification.pdf
+Introduction to machine learning with Python: a guide for data scientists,"['AC Müller', 'S Guido']",2016,N/A,2686,https://smartnet.niua.org/sites/default/files/webform/ai-strategy/pdf-introduction-to-machine-learning-with-python-a-guide-for-data-sc-andreas-c-mller-sarah-guido-pdf-download-free-book-aa67cdb.pdf
+How to improve firm performance using big data analytics capability and business strategy alignment?,"['S Akter', 'SF Wamba', 'A Gunasekaran', 'R Dubey']",2016,N/A,1690,http://pearl.plymouth.ac.uk/bitstream/handle/10026.1/5545/IJPE-BDAC%20FINAL%20PAPER%20-JULY%2026.pdf?sequence=1&isAllowed=y
+Reflections on societal and business model transformation arising from digitization and big data analytics: A research agenda,"['C Loebbecke', 'A Picot']",2015,N/A,1770,https://tarjomefa.com/wp-content/uploads/2016/09/5252-English.pdf
+Data analytics for the identification of fake reviews using supervised learning,"['SN Alsubari', 'SN Deshmukh', 'AA Alqarni']",2022,N/A,201,https://cdn.techscience.cn/ueditor/files/cmc/TSP_CMC_70-2/TSP_CMC_19625/TSP_CMC_19625.pdf
+The emerging big data analytics and IoT in supply chain management: a systematic review,"['A Aryal', 'Y Liao', 'P Nattuthurai', 'B Li']",2018,N/A,252,https://www.researchgate.net/profile/Ying-Liao-6/publication/329717786_The_emerging_big_data_analytics_and_IoT_in_supply_chain_management_a_systematic_review_Supply_Chain_Management_An_International_Journal/links/5c28e2a3299bf12be3a323b4/The-emerging-big-data-analytics-and-IoT-in-supply-chain-management-a-systematic-review-Supply-Chain-Management-An-International-Journal.pdf
+Big data analytics capability in supply chain agility: The moderating effect of organizational flexibility,"['R Dubey', 'A Gunasekaran', 'SJ Childe']",2018,N/A,481,https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/10854/Rameshwar%20DUBEY%20BDA%20Mgt%20Decn%20Revised%20final%20version%20accepted.pdf?sequence=2
+Big data analytics with R and Hadoop,['V Prajapati'],2013,N/A,250,https://ggnindia.dronacharya.info/CSE-AI-ML/Downloads/SubInfo/5thSem/Big-Data-Analytics-text-book-3.pdf
+"QIIME 2: Reproducible, interactive, scalable, and extensible microbiome data science","['E Bolyen', 'JR Rideout', 'MR Dillon', 'NA Bokulich', 'C Abnet']",2018,N/A,1006,https://peerj.com/preprints/27295.pdf
+Stream Reasoning: a Survey and Outlook: A summary of ten years of research and a vision for the next decade,"[""D Dell'Aglio"", 'E Della Valle', 'F van Harmelen']",2017,N/A,192,https://journals.sagepub.com/doi/pdf/10.3233/DS-170006
+The challenges of data quality and data quality assessment in the big data era,"['L Cai', 'Y Zhu']",2015,N/A,1402,https://account.datascience.codata.org/index.php/up-j-dsj/article/view/dsj-2015-002/550
+Science of science,"['S Fortunato', 'CT Bergstrom', 'K Börner', 'JA Evans']",2018,N/A,1366,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5949209/
+Sports analytics and the big-data era,"['E Morgulev', 'OH Azar', 'R Lidor']",2018,N/A,200,N/A
+Quantitative data analysis for social scientists,"['A Bryman', 'D Cramer']",1992,N/A,1730,N/A
+Welcome to the Tidyverse,"['H Wickham', 'M Averick', 'J Bryan', 'W Chang']",2019,N/A,15267,http://www.theoj.org/joss-papers/joss.01686/10.21105.joss.01686.pdf
+A comprehensive survey of clustering algorithms,"['D Xu', 'Y Tian']",2015,N/A,2298,https://link.springer.com/article/10.1007/S40745-015-0040-1
+"Beyond the hype: Big data concepts, methods, and analytics","['A Gandomi', 'M Haider']",2015,N/A,6518,https://www.sciencedirect.com/science/article/pii/S0268401214001066
+Deep learning for IoT big data and streaming analytics: A survey,"['M Mohammadi', 'A Al-Fuqaha', 'S Sorour']",2018,N/A,1592,https://arxiv.org/pdf/1712.04301;Deep
+Visualization of biomedical data,"[""SI O'Donoghue"", 'BF Baldi', 'SJ Clark']",2018,N/A,104,https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-080917-013424
+A comprehensive guide to convolutional neural networks—the ELI5 way,['S Saha'],2018,N/A,1017,https://www.ise.ncsu.edu/fuzzy-neural/wp-content/uploads/sites/9/2022/08/A-Comprehensive-Guide-to-Convolutional-Neural-Networks-%E2%80%94-the-ELI5-way-_-by-Sumit-Saha-_-Towards-Data-Science.pdf
+The fourth paradigm: data-intensive scientific discovery,"['T Hey', 'S Tansley', 'KM Tolle']",2009,N/A,4435,https://www.diamond.ac.uk/default/dam/jcr:bffe4035-c8e9-498a-945a-a4aae5289e01/Tony%20Hey%20-%20Diamond%20Workshop%20(June%202016).pdf
+Heart disease prediction using machine learning techniques,"['U Sadar', 'P Agarwal', 'S Parveen', 'S Jain']",2023,N/A,563,https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3565813
+HOW BIG DATA AND ANALYTICS ARE TRANSFORMING THE AUDIT.,['R Ramlukan'],2015,N/A,38,N/A
+Explaining explanations: An overview of interpretability of machine learning,"['LH Gilpin', 'D Bau', 'BZ Yuan', 'A Bajwa']",2018,N/A,2925,https://arxiv.org/pdf/1806.00069
+Essentials of business research methods,"['J Hair Jr', 'M Page', 'N Brunsveld']",2019,N/A,5506,https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/6939/Contents.pdf?sequence=4
+Big data: the management revolution,"['A McAfee', 'E Brynjolfsson', 'TH Davenport']",2012,N/A,8227,http://tarjomefa.com/wp-content/uploads/2017/04/6539-English-TarjomeFa-1.pdf
+A survey on unsupervised outlier detection in high‐dimensional numerical data,"['A Zimek', 'E Schubert', 'HP Kriegel']",2012,N/A,1066,N/A
+Ai explainability 360 toolkit,"['V Arya', 'RKE Bellamy', 'PY Chen', 'A Dhurandhar']",2021,N/A,111,https://www.jmlr.org/papers/volume21/19-1035/19-1035.pdf
+Marketing analytics for data-rich environments,"['M Wedel', 'PK Kannan']",2016,N/A,1338,N/A
+"Big Data, new epistemologies and paradigm shifts",['R Kitchin'],2014,N/A,3309,https://journals.sagepub.com/doi/full/10.1177/2053951714528481
+Big data: astronomical or genomical?,"['ZD Stephens', 'SY Lee', 'F Faghri', 'RH Campbell']",2015,N/A,1736,https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195
+Business intelligence and analytics: From big data to big impact,"['H Chen', 'RHL Chiang', 'VC Storey']",2012,N/A,9223,https://www.cse.fau.edu/~xqzhu/courses/Resources/Chen_big_data_MISQ_2012.pdf
+Statistical techniques in business & economics,"['DA Lind', 'WG Marchal', 'SA Wathen']",2018,N/A,1688,https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/12852/Contents.pdf?sequence=1&isAllowed=y
+Discovering knowledge in data: an introduction to data mining,"['DT Larose', 'CD Larose']",2014,N/A,5117,N/A
+Big data surveillance: The case of policing,['S Brayne'],2017,N/A,982,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10846878/
+Enhancement of overall equipment effectiveness (OEE) data by using simulation as decision making tools for line balancing,"['MS Abd Rahman', 'E Mohamad']",2020,N/A,59,https://pdfs.semanticscholar.org/b85b/12fd537167caaacd918881ffa025c1bb87c8.pdf
+Learning analytics: The emergence of a discipline,['G Siemens'],2013,N/A,1647,N/A
+The network data repository with interactive graph analytics and visualization,"['R Rossi', 'N Ahmed']",2015,N/A,2939,https://ojs.aaai.org/index.php/AAAI/article/view/9277/9136
+Data mining and machine learning: Fundamental concepts and algorithms,"['MJ Zaki', 'W Meira Jr', 'W Meira']",2020,N/A,1859,https://www.academia.edu/download/33262772/Data_Mining_and_Analysis_Fundamental_Concepts_and_Algorithms.pdf
+"Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon","['D Boyd', 'K Crawford']",2012,N/A,6637,N/A
+Introduction to HPC with MPI for Data Science,['F Nielsen'],2016,N/A,324,N/A
+"Machine learning: Trends, perspectives, and prospects","['MI Jordan', 'TM Mitchell']",2015,N/A,10144,http://www.cs.cmu.edu/~tom/pubs/Science-ML-2015.pdf
+Xgboost: A scalable tree boosting system,"['T Chen', 'C Guestrin']",2016,N/A,47044,https://dl.acm.org/doi/pdf/10.1145/2939672.2939785
+Creating value with big data analytics: Making smarter marketing decisions,['P Verhoef'],2016,N/A,357,N/A
+An introduction to data science,['J Saltz'],2017,N/A,140,N/A
+"Competing on analytics: Updated, with a new introduction: The new science of winning","['T Davenport', 'J Harris']",2017,N/A,3693,N/A
+Big data and due process: Toward a framework to redress predictive privacy harms,"['K Crawford', 'J Schultz']",2014,N/A,1148,https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2325784
+"Data-driven science and engineering: Machine learning, dynamical systems, and control","['SL Brunton', 'JN Kutz']",2022,N/A,2858,https://www.researchgate.net/profile/Steven-Brunton-2/publication/331230334_Singular_Value_Decomposition_SVD/links/5e229cb5299bf1e1fab9fc1a/Singular-Value-Decomposition-SVD.pdf
+Competing on analytics,['TH Davenport'],2006,N/A,2057,https://cs.brown.edu/courses/cs295-11/competing.pdf
+Creating business value with analytics,"['D Kiron', 'R Shockley']",2011,N/A,284,N/A
+Weapons of math destruction: How big data increases inequality and threatens democracy,"[""C O'neil""]",2017,N/A,9360,https://appliedenergyscience.lbl.gov/sites/default/files/Weapons_of_Math_Destruction_How_Big_Data_Increases.pdf
+The impact of digital technology and Industry 4.0 on the ripple effect and supply chain risk analytics,"['D Ivanov', 'A Dolgui', 'B Sokolov']",2019,N/A,1897,N/A
+Big data and predictive analytics for supply chain and organizational performance,"['A Gunasekaran', 'T Papadopoulos', 'R Dubey']",2017,N/A,1285,https://kar.kent.ac.uk/57171/13/JBR%20accepted.pdf
+Discovering governing equations from data by sparse identification of nonlinear dynamical systems,"['SL Brunton', 'JL Proctor', 'JN Kutz']",2016,N/A,4566,https://www.pnas.org/doi/full/10.1073/pnas.1517384113
+"Data-intensive applications, challenges, techniques and technologies: A survey on Big Data","['CLP Chen', 'CY Zhang']",2014,N/A,3807,http://www.cs.unibo.it/~danilo.montesi/CBD/Articoli/SurvyBigData2.pdf
+Personalized vaccines for cancer immunotherapy,"['U Sahin', 'Ö Türeci']",2018,N/A,978,N/A
+Data and Insights: Optimizing Marketing Research Results for Business Decisions.,['YE Rachmad'],2020,N/A,421,N/A
+Correspondence analysis in practice,['M Greenacre'],2017,N/A,4674,N/A
+Empirical evaluation of rectified activations in convolutional network,"['B Xu', 'N Wang', 'T Chen', 'M Li']",2015,N/A,4230,https://www.cse.fau.edu/~xqzhu/courses/cap6619/rectified.activation.pdf
+Advances and open problems in federated learning,"['P Kairouz', 'HB McMahan', 'B Avent']",2021,N/A,6455,https://www.nowpublishers.com/article/DownloadSummary/MAL-083
+"Big-data computing: creating revolutionary breakthroughs in commerce, science and society","['R Bryant', 'RH Katz', 'ED Lazowska']",2008,N/A,390,http://www.basexml.com/xdrp/demo/xconvertsample/pdf/big_data.pdf
+Software update: The ORCA program system—Version 5.0,['F Neese'],2022,N/A,2258,https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcms.1606
